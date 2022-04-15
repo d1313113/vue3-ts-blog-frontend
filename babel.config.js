@@ -25,5 +25,6 @@ module.exports = {
             },
             "element",
         ],
+        '@babel/plugin-transform-runtime'
     ],
 };
